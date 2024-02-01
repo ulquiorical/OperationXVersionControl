@@ -5,7 +5,7 @@
       "multHead": "3"
     }
   },
-  "Maps": {
+  "maps": {
     "FR_FiringRange": {
       "Spawn": {
         "SM_Cube": "0, 0, 0; 0, 0, 180; 1, 1, 1"
