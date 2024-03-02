@@ -1,1 +1,38 @@
-asd
+{
+  "casual": 
+  {
+    "valid" : "true",
+    "modes" : 
+      {
+        "koth":"koth_Canals",
+        "cc":"CC_SnapBaseN,CC_SubmarineDocs,CC_RComplex"
+      }
+  },
+  "ranked": 
+  {
+    "valid" : "false",
+    "modes" : 
+      {
+        "koth":"koth_Canals",
+        "cc":"CC_SnapBaseN,CC_SubmarineDocs,CC_RComplex"
+      }
+  },
+  "arcade": 
+  {
+    "valid" : "true",
+    "modes" : 
+      {
+        "gg":"dm_Skyscraper,dm_turbine,CC_SnapBaseN",
+        "dm":"dm_Skyscraper,dm_turbine,CC_SnapBaseN",
+        "d":"d_CyberGrid"
+      }
+  },
+    "training": 
+  {
+    "valid" : "true",
+    "modes" : 
+      {
+        "fr":"FR_FiringRange"
+      }
+  }
+}
