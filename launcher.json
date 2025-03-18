@@ -1,12 +1,5 @@
 {
     "LauncherVersion": "1.0",
     "DownloadableVersion": "ox.s0.0.1.9a",
-    "Url": "https://drive.usercontent.google.com/download?id=",
-    "FileIDs": [
-        "1y-aOGhVlq2-dnHJzXhmRSDp0E5mI5c19",
-        "1_rm8gYvQmAtyoIF49OzqP4ZLpDMiY68p",
-        "1vDIb5R8kMUKRq50WuBy8iHt2LrQpQNlx",
-        "1ingfs62eN2Y5OYk44EGpUY83MLa0IUb8"
-    ],
-    "ConfirmToken": "&export=download&authuser=0&confirm=t&uuid=cab6ff99-50f1-47c5-aadc-b7d09c9cb97c"
+    "Url": "",
 }
