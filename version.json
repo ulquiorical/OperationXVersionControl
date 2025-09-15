@@ -1,6 +1,6 @@
 {
     "Version": "ox.s0.0.1.9a",
     "Url": "TestURL",
-    "Access": "false",
+    "Access": "true",
     "LoginDeviceID": "true"
 }
